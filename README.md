@@ -31,3 +31,5 @@ The project features an interactive web interface built with Streamlit, which vi
 * **Web Interface:** Streamlit
 * **Parsing:** Recursive Descent
 * **Visualization:** Graphviz (for rendering the AST and DAG)
+
+![Output Image](https://github.com/devray11/Intermediate-Code-Generation-and-DAG-Visualization-for-Expressions-/blob/0db350d8f799b843fc2f6143ebff4f311634c869/Output-Image.png)
